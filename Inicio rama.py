@@ -1,4 +1,4 @@
-# ACA QUIERO UN CONFLICTO
+# ACA QUIERO UN CONFLICTO, PARA MOSTRAR EL NUEVO PANEL
 
 # Este archivo esta en la nueva rama
 
