@@ -1,5 +1,5 @@
-# cree un archivo python en la rama 2
+# aca resolvi el conflicro y agrege esta linea
 
-# aca cree oreo comentario para probrar retroceder commits 1
+# aca BUSCA el choque de cambios para ver con que cambio quedarme
 
-# aca cree oreo comentario para probrar retroceder commits 2
+# aca deberia quedar con este cambio nuevo
